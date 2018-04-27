@@ -51,35 +51,5 @@
   },
   "dependencies": {
     "async": "^1.3.0"
-  },
-  "bugs": {
-    "url": "https://github.com/flash-coin/flashcoind-rpc/issues"
-  },
-  "homepage": "https://github.com/flash-coin/flashcoind-rpc",
-  "gitHead": "e5666a970bf9d78d000d0b677c2316997fa8b5de",
-  "_id": "flashcoind-rpc@0.7.1",
-  "_shasum": "c62f43c3b4bc8c5faf5faec6a9dc74f21512840c",
-  "_from": "flashcoind-rpc@>=0.7.1 <0.8.0",
-  "_npmVersion": "4.1.2",
-  "_nodeVersion": "7.7.4",
-  "_npmUser": {
-    "name": "losh11",
-    "email": "loshan1212@gmail.com"
-  },
-  "dist": {
-    "shasum": "c62f43c3b4bc8c5faf5faec6a9dc74f21512840c",
-    "tarball": "https://registry.npmjs.org/flashcoind-rpc/-/flashcoind-rpc-0.7.1.tgz"
-  },
-  "maintainers": [
-    {
-      "name": "losh11",
-      "email": "loshan1212@gmail.com"
-    }
-  ],
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/flashcoind-rpc-0.7.1.tgz_1494467422966_0.5454641627147794"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/flashcoind-rpc/-/flashcoind-rpc-0.7.1.tgz"
+  }
 }
